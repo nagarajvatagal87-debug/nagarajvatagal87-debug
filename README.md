@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**nagarajvatagal87-debug/nagarajvatagal87-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nagaraj  
 
-Here are some ideas to get you started:
+### 💻 MCA Student | MERN Stack Developer  
+I enjoy building full-stack applications and solving real-world problems using technology.  
+Currently improving my DSA, backend skills, and preparing for top IT interviews.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+- *Frontend:* HTML, CSS, JavaScript, React.js 
+- *Backend:* Node.js, Express.js  
+- *Database:* MongoDB, MySQL  
+- *Other:* Git, GitHub, REST APIs  
+
+---
+
+## 📘 What I'm Working On
+- Building full-stack MERN projects  
+- Practicing DSA for interviews  
+- Learning advanced Node.js & system design basics  
+
+---
+
+## 📂 Featured Projects
+### 🌟 College Complaint Redressal System  
+A web-based platform for students to register complaints and track status.  
+*Tech:* HTML, CSS, JS, PHP/MySQL  
+
+---
+
+## 📫 Connect With Me  
+- *Email:* nagarajvatagal87@gmail.com  
+- *LinkedIn:* https://www.linkedin.com/in/nagaraj-vatagal  
+
+---
+
+⭐ Always learning. Always building. Always improving.
