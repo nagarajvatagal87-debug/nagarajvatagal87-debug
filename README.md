@@ -4,30 +4,30 @@
 ---
 
 ## 🚀 About Me  
-🌱 Learning *Full-Stack Development & DSA*  
+🌱 Learning Full-Stack Development & DSA  
 💡 Love building useful apps for real-world problems  
 🎯 Goal: Become a strong MERN Developer  
-📫 Reach me: *nagarajvatagal87@gmail.com*
+📫 Reach me: nagarajvatagal87@gmail.com
 
 ---
 
 ## 🛠 Tech Stack  
 
-### *Frontend*
+### Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### *Backend*
+### Backend
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-### *Database*
+### Database
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### *Tools*
+### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
@@ -50,9 +50,9 @@
 ---
 
 ## 🚀 Featured Project  
-### *College Complaint Redressal System*
+### College Complaint Redressal System
 A web application for students to submit, track, and resolve complaints.  
-*Tech:* HTML, CSS, JavaScript, PHP, MySQL
+Tech: HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
