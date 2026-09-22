@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.svg" alt="Nagaraj Vatagal banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nagaraj Vatagal</h1>
 <h3 align="center">Self-taught Full-Stack Developer | AI-powered Web Apps | MCA Student</h3>
 
